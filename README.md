@@ -27,4 +27,4 @@ Path: `styled-version/index.html` + `styled-version/index.css`
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/vscode-landing-page.git
+   git clone https://github.com/<Jinkz04>/vscode-landing-page.git
